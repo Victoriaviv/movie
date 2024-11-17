@@ -23,7 +23,7 @@ arrows.forEach((arrow,i)=>{
 });
 
 
-const ball = document.querySelectorAll(".toggle-ball");
+const ball = document.querySelector(".toggle-ball");
 const items = document.querySelectorAll(
    ".container,.movie-list-title,.navbar-container,.sidebar,.left-menu-icon,.toggle"
 
